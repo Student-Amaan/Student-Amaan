@@ -35,7 +35,7 @@ I’m looking to collaborate on innovative projects in the web development and t
 ## 📞 Connect with Me
 
 <p>
-  <a href="www.linkedin.com/in/aman-ullah-7a266331b" target="_blank" >
+  <a href="https://www.linkedin.com/in/aman-ullah-7a266331b/?trk=public-profile-join-page" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Student-Amaan" target="_blank">
