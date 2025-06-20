@@ -35,13 +35,13 @@ I’m looking to collaborate on innovative projects in the web development and t
 ## 📞 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/waqas-khan-a68602343/" target="_blank" >
+  <a href="www.linkedin.com/in/aman-ullah-7a266331b" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Waqas-Khan-CodeCanvas" target="_blank">
+  <a href="https://github.com/Student-Amaan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="waqaskhan11411704@gmail.com" target="_blank">
+  <a href="danishdarman06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
   </a>
 </p>
