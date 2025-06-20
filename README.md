@@ -41,7 +41,7 @@ I’m looking to collaborate on innovative projects in the web development and t
   <a href="https://github.com/Student-Amaan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="danishdarman06@gmail.com" target="_blank">
+  <a href="danishwaxir9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
   </a>
 </p>
