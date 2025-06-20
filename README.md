@@ -38,7 +38,7 @@ I’m looking to collaborate on innovative projects in the web development and t
   <a href="https://www.linkedin.com/in/aman-ullah-7a266331b/?trk=public-profile-join-page" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Student-Amaan/Student-Amaan/edit/main/README.md" target="_blank">
+  <a href="https://github.com/Student-Amaan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="danishdarman06@gmail.com" target="_blank">
